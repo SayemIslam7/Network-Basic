@@ -45,7 +45,7 @@ A structured document with sections and bullet points for clarity.
 ![Networking Devices](images/networking_devices.png)
 
 ### 3. Common Networking Protocols
-- **TCP/IP (Transmission Control Protocol/Internet Protocol)**: Fundamental suite of protocols for internet communication.
+- **TCP/IP (Transmission Control Protocol/Internet Protocol)**: Fundamental suite of protocols for internet communication.(https://github.com/SayemIslam7/TCP-IP)
 - **HTTP/HTTPS (HyperText Transfer Protocol/Secure)**: Protocols for web communication.
 - **FTP (File Transfer Protocol)**: Used for transferring files between computers.
 - **DNS (Domain Name System)**: Translates domain names to IP addresses.
